@@ -1,6 +1,7 @@
 # ecomm_store
 
 A new Flutter project.
+    simple view app for some electric products to practice Flutter Framework (from youtube)
 
 ## Getting Started
 
